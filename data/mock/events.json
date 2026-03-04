@@ -1,0 +1,159 @@
+{
+  "data": {
+    "nodeEvents": {
+      "__typename": "NodeEventConnection",
+      "nodes": [
+        {
+          "__typename": "NodeEvent",
+          "id": "event-volunteer-day",
+          "title": "Spring Volunteer Day",
+          "path": "/events/spring-volunteer-day",
+          "body": {
+            "processed": "<p>Join hundreds of volunteers for our annual Spring Volunteer Day! Activities include tree planting, trail maintenance, invasive species removal, and wildlife habitat construction.</p><h2>Schedule</h2><ul><li>8:00 AM - Registration & Breakfast</li><li>9:00 AM - Team Assignments & Safety Briefing</li><li>9:30 AM - Field Work Begins</li><li>12:00 PM - Lunch & Presentation</li><li>1:00 PM - Afternoon Activities</li><li>3:00 PM - Wrap-up & Celebration</li></ul><p>All tools, supplies, and meals are provided. Wear sturdy shoes and weather-appropriate clothing.</p>",
+            "summary": "Join hundreds of volunteers for our annual Spring Volunteer Day! Activities include tree planting, trail maintenance, invasive species removal, and wildlife habitat construction.Schedule8:00 AM - Regi"
+          },
+          "eventDate": {
+            "timestamp": 1776517200
+          },
+          "endDate": {
+            "timestamp": 1776542400
+          },
+          "location": "Greenfield Nature Preserve",
+          "eventType": [
+            {
+              "id": "volunteer",
+              "name": "volunteer"
+            }
+          ],
+          "registrationUrl": "https://greenfield-conservation.org/register/volunteer-day",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+            "alt": "Volunteers planting trees",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-gala",
+          "title": "Annual Conservation Gala",
+          "path": "/events/annual-conservation-gala",
+          "body": {
+            "processed": "<p>Our premier fundraising event of the year brings together conservation leaders, donors, and community members for an evening of celebration and inspiration. This year's theme celebrates 25 years of protecting our natural heritage.</p><p>The evening includes a keynote address from renowned conservationist Dr. Elena Rodriguez, a silent auction featuring nature photography and eco-tourism packages, and live music.</p>",
+            "summary": "Our premier fundraising event of the year brings together conservation leaders, donors, and community members for an evening of celebration and inspiration. This year's theme celebrates 25 years of pr"
+          },
+          "eventDate": {
+            "timestamp": 1781478000
+          },
+          "endDate": {
+            "timestamp": 1781492400
+          },
+          "location": "Grand Ballroom, Riverside Hotel",
+          "eventType": [
+            {
+              "id": "fundraiser",
+              "name": "fundraiser"
+            }
+          ],
+          "registrationUrl": "https://greenfield-conservation.org/register/gala",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+            "alt": "Annual Conservation Gala",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-bird-count",
+          "title": "Great Bird Count Weekend",
+          "path": "/events/great-bird-count",
+          "body": {
+            "processed": "<p>Participate in our annual community science event! Volunteers of all ages and experience levels are welcome to join us in counting and identifying bird species across the region. Data collected helps track population trends and inform conservation strategies.</p><h2>How to Participate</h2><ul><li>Choose a survey location from our interactive map</li><li>Download the data collection app</li><li>Spend at least 1 hour observing and recording bird species</li><li>Submit your data by Sunday evening</li></ul>",
+            "summary": "Participate in our annual community science event! Volunteers of all ages and experience levels are welcome to join us in counting and identifying bird species across the region. Data collected helps "
+          },
+          "eventDate": {
+            "timestamp": 1778324400
+          },
+          "endDate": {
+            "timestamp": 1778454000
+          },
+          "location": "Various Locations Regionwide",
+          "eventType": [
+            {
+              "id": "workshop",
+              "name": "workshop"
+            }
+          ],
+          "registrationUrl": "https://greenfield-conservation.org/register/bird-count",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1480044965905-02098d419e96?w=800&q=80",
+            "alt": "Birdwatcher with binoculars",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1480044965905-02098d419e96?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1480044965905-02098d419e96?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1480044965905-02098d419e96?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

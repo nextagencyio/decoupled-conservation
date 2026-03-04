@@ -1,0 +1,142 @@
+{
+  "data": {
+    "nodeNewsItems": {
+      "__typename": "NodeNewsConnection",
+      "nodes": [
+        {
+          "__typename": "NodeNews",
+          "id": "news-grant",
+          "title": "Society Receives $3.2M Federal Grant for Wetland Restoration",
+          "path": "/news/federal-grant-wetland-restoration",
+          "body": {
+            "processed": "<p>Greenfield Conservation Society has been awarded a $3.2 million grant from the U.S. Fish and Wildlife Service to expand our wetland restoration efforts along the Chesapeake Bay watershed.</p><p>\"This funding will allow us to accelerate our restoration timeline and protect critical habitat for dozens of migratory bird species,\" said Executive Director Dr. Sarah Chen.</p><p>The grant will fund the restoration of an additional 1,500 acres of wetland habitat over the next three years, bringing the total project area to 4,500 acres.</p>",
+            "summary": "Greenfield Conservation Society has been awarded a $3.2 million grant from the U.S. Fish and Wildlife Service to expand our wetland restoration efforts along the Chesapeake Bay watershed.\"This funding"
+          },
+          "category": [
+            {
+              "id": "research",
+              "name": "research"
+            },
+            {
+              "id": "announcements",
+              "name": "announcements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+            "alt": "Wetland landscape at sunset",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-eagle-record",
+          "title": "Record Eagle Nesting Season Marks Conservation Milestone",
+          "path": "/news/record-eagle-nesting-season",
+          "body": {
+            "processed": "<p>This year's bald eagle nesting survey has recorded the highest number of active nests in the society's 25-year monitoring history. A total of 68 active nests were documented across our monitoring region, up from 52 last year.</p><p>\"This is a testament to decades of habitat protection and pollution reduction efforts,\" said wildlife biologist Dr. James Morton. \"Each nest represents a pair of eagles choosing our protected areas as safe places to raise their young.\"</p>",
+            "summary": "This year's bald eagle nesting survey has recorded the highest number of active nests in the society's 25-year monitoring history. A total of 68 active nests were documented across our monitoring regi"
+          },
+          "category": [
+            {
+              "id": "research",
+              "name": "research"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1612024782955-49fae79e42bb?w=800&q=80",
+            "alt": "Bald eagle nesting",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1612024782955-49fae79e42bb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1612024782955-49fae79e42bb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1612024782955-49fae79e42bb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-youth-program",
+          "title": "Youth Conservation Corps Launches Summer Program",
+          "path": "/news/youth-conservation-corps-launches",
+          "body": {
+            "processed": "<p>Our new Youth Conservation Corps program will provide 100 high school students with hands-on conservation experience this summer. Participants will work alongside professional ecologists and wildlife biologists on real conservation projects.</p><p>The eight-week program includes field research, habitat restoration, wildlife monitoring, and leadership development. Students will earn community service hours and receive a stipend for their work.</p><p>Applications are now open for students ages 15-18 from the greater metro area.</p>",
+            "summary": "Our new Youth Conservation Corps program will provide 100 high school students with hands-on conservation experience this summer. Participants will work alongside professional ecologists and wildlife "
+          },
+          "category": [
+            {
+              "id": "community",
+              "name": "community"
+            }
+          ],
+          "featured": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+            "alt": "Youth Conservation Corps participants",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Greenfield Conservation Society",
+          "path": "/homepage",
+          "heroTitle": "Protecting Our Planet",
+          "heroSubtitle": "One Habitat at a Time",
+          "heroDescription": {
+            "processed": "<p>Join us in safeguarding biodiversity and restoring ecosystems. Through science-driven conservation and community engagement, we protect the natural world for future generations.</p>",
+            "summary": "Join us in safeguarding biodiversity and restoring ecosystems. Through science-driven conservation and community engagement, we protect the natural world for future generations."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-acres",
+              "title": "",
+              "number": "50,000+",
+              "label": "Acres Protected"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-species",
+              "title": "",
+              "number": "200+",
+              "label": "Species Monitored"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-volunteers",
+              "title": "",
+              "number": "5,000+",
+              "label": "Active Volunteers"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-projects",
+              "title": "",
+              "number": "35",
+              "label": "Active Projects"
+            }
+          ],
+          "featuredProjectsTitle": "Our Conservation Projects",
+          "ctaTitle": "Make a Difference Today",
+          "ctaDescription": {
+            "processed": "<p>Every contribution helps protect endangered species, restore critical habitats, and build a sustainable future. Join our mission.</p>",
+            "summary": "Every contribution helps protect endangered species, restore critical habitats, and build a sustainable future. Join our mission."
+          },
+          "ctaPrimary": "Support Our Mission",
+          "ctaSecondary": "Volunteer With Us"
+        }
+      ]
+    }
+  }
+}

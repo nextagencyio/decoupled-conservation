@@ -1,0 +1,197 @@
+{
+  "data": {
+    "nodeProjects": {
+      "__typename": "NodeProjectConnection",
+      "nodes": [
+        {
+          "__typename": "NodeProject",
+          "id": "project-wetland-restoration",
+          "title": "Wetland Restoration Initiative",
+          "path": "/projects/wetland-restoration",
+          "body": {
+            "processed": "<p>Our flagship wetland restoration project spans over 3,000 acres of degraded marshland along the eastern seaboard. Working with local communities and government agencies, we are restoring natural water filtration systems and creating critical habitat for migratory birds.</p><h2>Project Goals</h2><ul><li>Restore 3,000 acres of wetland habitat</li><li>Reintroduce 15 native plant species</li><li>Establish nesting sites for 30+ bird species</li><li>Improve water quality for downstream communities</li></ul><h2>Progress</h2><p>Since launching in 2023, we have restored over 1,200 acres and documented the return of several species that had been absent from the area for decades.</p>",
+            "summary": "Our flagship wetland restoration project spans over 3,000 acres of degraded marshland along the eastern seaboard. Working with local communities and government agencies, we are restoring natural water"
+          },
+          "projectArea": [
+            {
+              "id": "habitat-restoration",
+              "name": "habitat-restoration"
+            }
+          ],
+          "startDate": {
+            "timestamp": 1678856400
+          },
+          "location": "Chesapeake Bay Region, Maryland",
+          "fundingGoal": "$2.5 Million",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+            "alt": "Wetland Restoration Initiative",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProject",
+          "id": "project-forest-corridor",
+          "title": "Forest Wildlife Corridor",
+          "path": "/projects/forest-wildlife-corridor",
+          "body": {
+            "processed": "<p>The Forest Wildlife Corridor project connects fragmented forest habitats across 50 miles, creating a continuous pathway for wildlife movement. This corridor is essential for genetic diversity and species survival in an increasingly developed landscape.</p><h2>Key Features</h2><ul><li>50-mile continuous wildlife corridor</li><li>Native tree planting and invasive species removal</li><li>Wildlife crossing structures over major roads</li><li>Community education and engagement programs</li></ul>",
+            "summary": "The Forest Wildlife Corridor project connects fragmented forest habitats across 50 miles, creating a continuous pathway for wildlife movement. This corridor is essential for genetic diversity and spec"
+          },
+          "projectArea": [
+            {
+              "id": "wildlife-protection",
+              "name": "wildlife-protection"
+            }
+          ],
+          "startDate": {
+            "timestamp": 1704866400
+          },
+          "location": "Appalachian Region, Virginia",
+          "fundingGoal": "$4.2 Million",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
+            "alt": "Forest Wildlife Corridor",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProject",
+          "id": "project-marine-sanctuary",
+          "title": "Coastal Marine Sanctuary",
+          "path": "/projects/coastal-marine-sanctuary",
+          "body": {
+            "processed": "<p>Establishing a protected marine zone along 20 miles of coastline to preserve coral reefs, seagrass beds, and marine biodiversity. This project combines underwater monitoring technology with community-based conservation practices.</p><h2>Conservation Activities</h2><ul><li>Coral reef restoration and monitoring</li><li>Seagrass bed protection zones</li><li>Sustainable fishing partnership programs</li><li>Marine debris cleanup operations</li></ul>",
+            "summary": "Establishing a protected marine zone along 20 miles of coastline to preserve coral reefs, seagrass beds, and marine biodiversity. This project combines underwater monitoring technology with community-"
+          },
+          "projectArea": [
+            {
+              "id": "marine-conservation",
+              "name": "marine-conservation"
+            }
+          ],
+          "startDate": {
+            "timestamp": 1717218000
+          },
+          "location": "Florida Keys, Florida",
+          "fundingGoal": "$3.8 Million",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80",
+            "alt": "Coastal Marine Sanctuary",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProject",
+          "id": "project-pollinator-habitat",
+          "title": "Pollinator Habitat Network",
+          "path": "/projects/pollinator-habitat-network",
+          "body": {
+            "processed": "<p>Creating a network of pollinator gardens and native meadows across urban and suburban landscapes. This project addresses the critical decline in pollinator populations by establishing feeding and nesting habitats throughout our region.</p><h2>Network Components</h2><ul><li>200+ community pollinator gardens</li><li>School education programs</li><li>Native seed distribution initiative</li><li>Monarch butterfly waystation certification</li></ul>",
+            "summary": "Creating a network of pollinator gardens and native meadows across urban and suburban landscapes. This project addresses the critical decline in pollinator populations by establishing feeding and nest"
+          },
+          "projectArea": [
+            {
+              "id": "habitat-restoration",
+              "name": "habitat-restoration"
+            }
+          ],
+          "startDate": {
+            "timestamp": 1738389600
+          },
+          "location": "Greater Metro Area, Multiple States",
+          "fundingGoal": "$1.2 Million",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&q=80",
+            "alt": "Pollinator Habitat Network",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

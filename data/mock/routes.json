@@ -1,0 +1,842 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Greenfield Conservation Society",
+          "path": "/homepage",
+          "heroTitle": "Protecting Our Planet",
+          "heroSubtitle": "One Habitat at a Time",
+          "heroDescription": {
+            "processed": "<p>Join us in safeguarding biodiversity and restoring ecosystems. Through science-driven conservation and community engagement, we protect the natural world for future generations.</p>",
+            "summary": "Join us in safeguarding biodiversity and restoring ecosystems. Through science-driven conservation and community engagement, we protect the natural world for future generations."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-acres",
+              "title": "",
+              "number": "50,000+",
+              "label": "Acres Protected"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-species",
+              "title": "",
+              "number": "200+",
+              "label": "Species Monitored"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-volunteers",
+              "title": "",
+              "number": "5,000+",
+              "label": "Active Volunteers"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-projects",
+              "title": "",
+              "number": "35",
+              "label": "Active Projects"
+            }
+          ],
+          "featuredProjectsTitle": "Our Conservation Projects",
+          "ctaTitle": "Make a Difference Today",
+          "ctaDescription": {
+            "processed": "<p>Every contribution helps protect endangered species, restore critical habitats, and build a sustainable future. Join our mission.</p>",
+            "summary": "Every contribution helps protect endangered species, restore critical habitats, and build a sustainable future. Join our mission."
+          },
+          "ctaPrimary": "Support Our Mission",
+          "ctaSecondary": "Volunteer With Us"
+        }
+      }
+    }
+  },
+  "/projects/wetland-restoration": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProject",
+          "id": "project-wetland-restoration",
+          "title": "Wetland Restoration Initiative",
+          "path": "/projects/wetland-restoration",
+          "body": {
+            "processed": "<p>Our flagship wetland restoration project spans over 3,000 acres of degraded marshland along the eastern seaboard. Working with local communities and government agencies, we are restoring natural water filtration systems and creating critical habitat for migratory birds.</p><h2>Project Goals</h2><ul><li>Restore 3,000 acres of wetland habitat</li><li>Reintroduce 15 native plant species</li><li>Establish nesting sites for 30+ bird species</li><li>Improve water quality for downstream communities</li></ul><h2>Progress</h2><p>Since launching in 2023, we have restored over 1,200 acres and documented the return of several species that had been absent from the area for decades.</p>",
+            "summary": "Our flagship wetland restoration project spans over 3,000 acres of degraded marshland along the eastern seaboard. Working with local communities and government agencies, we are restoring natural water"
+          },
+          "projectArea": [
+            {
+              "id": "habitat-restoration",
+              "name": "habitat-restoration"
+            }
+          ],
+          "startDate": {
+            "timestamp": 1678856400
+          },
+          "location": "Chesapeake Bay Region, Maryland",
+          "fundingGoal": "$2.5 Million",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+            "alt": "Wetland Restoration Initiative",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/projects/forest-wildlife-corridor": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProject",
+          "id": "project-forest-corridor",
+          "title": "Forest Wildlife Corridor",
+          "path": "/projects/forest-wildlife-corridor",
+          "body": {
+            "processed": "<p>The Forest Wildlife Corridor project connects fragmented forest habitats across 50 miles, creating a continuous pathway for wildlife movement. This corridor is essential for genetic diversity and species survival in an increasingly developed landscape.</p><h2>Key Features</h2><ul><li>50-mile continuous wildlife corridor</li><li>Native tree planting and invasive species removal</li><li>Wildlife crossing structures over major roads</li><li>Community education and engagement programs</li></ul>",
+            "summary": "The Forest Wildlife Corridor project connects fragmented forest habitats across 50 miles, creating a continuous pathway for wildlife movement. This corridor is essential for genetic diversity and spec"
+          },
+          "projectArea": [
+            {
+              "id": "wildlife-protection",
+              "name": "wildlife-protection"
+            }
+          ],
+          "startDate": {
+            "timestamp": 1704866400
+          },
+          "location": "Appalachian Region, Virginia",
+          "fundingGoal": "$4.2 Million",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
+            "alt": "Forest Wildlife Corridor",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/projects/coastal-marine-sanctuary": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProject",
+          "id": "project-marine-sanctuary",
+          "title": "Coastal Marine Sanctuary",
+          "path": "/projects/coastal-marine-sanctuary",
+          "body": {
+            "processed": "<p>Establishing a protected marine zone along 20 miles of coastline to preserve coral reefs, seagrass beds, and marine biodiversity. This project combines underwater monitoring technology with community-based conservation practices.</p><h2>Conservation Activities</h2><ul><li>Coral reef restoration and monitoring</li><li>Seagrass bed protection zones</li><li>Sustainable fishing partnership programs</li><li>Marine debris cleanup operations</li></ul>",
+            "summary": "Establishing a protected marine zone along 20 miles of coastline to preserve coral reefs, seagrass beds, and marine biodiversity. This project combines underwater monitoring technology with community-"
+          },
+          "projectArea": [
+            {
+              "id": "marine-conservation",
+              "name": "marine-conservation"
+            }
+          ],
+          "startDate": {
+            "timestamp": 1717218000
+          },
+          "location": "Florida Keys, Florida",
+          "fundingGoal": "$3.8 Million",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80",
+            "alt": "Coastal Marine Sanctuary",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/projects/pollinator-habitat-network": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProject",
+          "id": "project-pollinator-habitat",
+          "title": "Pollinator Habitat Network",
+          "path": "/projects/pollinator-habitat-network",
+          "body": {
+            "processed": "<p>Creating a network of pollinator gardens and native meadows across urban and suburban landscapes. This project addresses the critical decline in pollinator populations by establishing feeding and nesting habitats throughout our region.</p><h2>Network Components</h2><ul><li>200+ community pollinator gardens</li><li>School education programs</li><li>Native seed distribution initiative</li><li>Monarch butterfly waystation certification</li></ul>",
+            "summary": "Creating a network of pollinator gardens and native meadows across urban and suburban landscapes. This project addresses the critical decline in pollinator populations by establishing feeding and nest"
+          },
+          "projectArea": [
+            {
+              "id": "habitat-restoration",
+              "name": "habitat-restoration"
+            }
+          ],
+          "startDate": {
+            "timestamp": 1738389600
+          },
+          "location": "Greater Metro Area, Multiple States",
+          "fundingGoal": "$1.2 Million",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&q=80",
+            "alt": "Pollinator Habitat Network",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/species/bald-eagle": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeSpecies",
+          "id": "species-bald-eagle",
+          "title": "Bald Eagle",
+          "path": "/species/bald-eagle",
+          "body": {
+            "processed": "<p>The bald eagle, America's national bird, has made a remarkable comeback from the brink of extinction. Our monitoring program tracks nesting pairs across the region and works to protect critical habitat areas from development and pollution.</p><h2>Conservation Success</h2><p>Thanks to decades of protection efforts, bald eagle populations have recovered significantly. Our society monitors over 50 active nests and conducts annual population surveys to ensure continued recovery.</p>",
+            "summary": "The bald eagle, America's national bird, has made a remarkable comeback from the brink of extinction. Our monitoring program tracks nesting pairs across the region and works to protect critical habita"
+          },
+          "conservationStatus": [
+            {
+              "id": "least-concern",
+              "name": "least-concern"
+            }
+          ],
+          "habitat": "Near large bodies of open water, forests",
+          "populationEstimate": "316,000 (North America)",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&q=80",
+            "alt": "Bald Eagle in flight",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "scientificName": "Haliaeetus leucocephalus"
+        }
+      }
+    }
+  },
+  "/species/red-wolf": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeSpecies",
+          "id": "species-red-wolf",
+          "title": "Red Wolf",
+          "path": "/species/red-wolf",
+          "body": {
+            "processed": "<p>The red wolf is one of the most endangered canids in the world. Our captive breeding and reintroduction program works to establish self-sustaining wild populations in protected areas of the southeastern United States.</p><h2>Our Role</h2><p>Greenfield Conservation Society operates one of the primary breeding facilities and coordinates with federal agencies on reintroduction efforts. We also manage community outreach programs to reduce human-wildlife conflict.</p>",
+            "summary": "The red wolf is one of the most endangered canids in the world. Our captive breeding and reintroduction program works to establish self-sustaining wild populations in protected areas of the southeaste"
+          },
+          "conservationStatus": [
+            {
+              "id": "critically-endangered",
+              "name": "critically-endangered"
+            }
+          ],
+          "habitat": "Forests, wetlands, coastal prairies",
+          "populationEstimate": "15-20 (wild), 250 (captive)",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+            "alt": "Red Wolf in natural habitat",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "scientificName": "Canis rufus"
+        }
+      }
+    }
+  },
+  "/species/loggerhead-sea-turtle": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeSpecies",
+          "id": "species-sea-turtle",
+          "title": "Loggerhead Sea Turtle",
+          "path": "/species/loggerhead-sea-turtle",
+          "body": {
+            "processed": "<p>Loggerhead sea turtles are the most common sea turtle in the Atlantic, yet they face numerous threats including coastal development, fishing bycatch, and climate change. Our beach monitoring and nest protection program has helped increase hatchling survival rates significantly.</p><h2>Protection Efforts</h2><ul><li>24/7 nest monitoring during nesting season</li><li>Beach lighting ordinance advocacy</li><li>Hatchling orientation programs</li><li>Marine debris reduction campaigns</li></ul>",
+            "summary": "Loggerhead sea turtles are the most common sea turtle in the Atlantic, yet they face numerous threats including coastal development, fishing bycatch, and climate change. Our beach monitoring and nest "
+          },
+          "conservationStatus": [
+            {
+              "id": "vulnerable",
+              "name": "vulnerable"
+            }
+          ],
+          "habitat": "Coastal waters, sandy beaches for nesting",
+          "populationEstimate": "44,000 nesting females (Atlantic)",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1591025207163-942350e47db2?w=800&q=80",
+            "alt": "Loggerhead Sea Turtle swimming",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1591025207163-942350e47db2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1591025207163-942350e47db2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1591025207163-942350e47db2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "scientificName": "Caretta caretta"
+        }
+      }
+    }
+  },
+  "/species/monarch-butterfly": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeSpecies",
+          "id": "species-monarch-butterfly",
+          "title": "Monarch Butterfly",
+          "path": "/species/monarch-butterfly",
+          "body": {
+            "processed": "<p>The monarch butterfly is renowned for its incredible multi-generational migration spanning thousands of miles. Declining milkweed habitat and climate change have caused dramatic population declines, making conservation action urgent.</p><h2>What We Do</h2><ul><li>Milkweed planting and habitat restoration</li><li>Migration monitoring and tagging program</li><li>Community science butterfly counts</li><li>Pesticide-free zone advocacy</li></ul>",
+            "summary": "The monarch butterfly is renowned for its incredible multi-generational migration spanning thousands of miles. Declining milkweed habitat and climate change have caused dramatic population declines, m"
+          },
+          "conservationStatus": [
+            {
+              "id": "endangered",
+              "name": "endangered"
+            }
+          ],
+          "habitat": "Meadows, fields, milkweed patches, overwintering forests",
+          "populationEstimate": "Declining - down 80% since 1990s",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=800&q=80",
+            "alt": "Monarch Butterfly on milkweed",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "scientificName": "Danaus plexippus"
+        }
+      }
+    }
+  },
+  "/events/spring-volunteer-day": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-volunteer-day",
+          "title": "Spring Volunteer Day",
+          "path": "/events/spring-volunteer-day",
+          "body": {
+            "processed": "<p>Join hundreds of volunteers for our annual Spring Volunteer Day! Activities include tree planting, trail maintenance, invasive species removal, and wildlife habitat construction.</p><h2>Schedule</h2><ul><li>8:00 AM - Registration & Breakfast</li><li>9:00 AM - Team Assignments & Safety Briefing</li><li>9:30 AM - Field Work Begins</li><li>12:00 PM - Lunch & Presentation</li><li>1:00 PM - Afternoon Activities</li><li>3:00 PM - Wrap-up & Celebration</li></ul><p>All tools, supplies, and meals are provided. Wear sturdy shoes and weather-appropriate clothing.</p>",
+            "summary": "Join hundreds of volunteers for our annual Spring Volunteer Day! Activities include tree planting, trail maintenance, invasive species removal, and wildlife habitat construction.Schedule8:00 AM - Regi"
+          },
+          "eventDate": {
+            "timestamp": 1776517200
+          },
+          "endDate": {
+            "timestamp": 1776542400
+          },
+          "location": "Greenfield Nature Preserve",
+          "eventType": [
+            {
+              "id": "volunteer",
+              "name": "volunteer"
+            }
+          ],
+          "registrationUrl": "https://greenfield-conservation.org/register/volunteer-day",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+            "alt": "Volunteers planting trees",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/annual-conservation-gala": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-gala",
+          "title": "Annual Conservation Gala",
+          "path": "/events/annual-conservation-gala",
+          "body": {
+            "processed": "<p>Our premier fundraising event of the year brings together conservation leaders, donors, and community members for an evening of celebration and inspiration. This year's theme celebrates 25 years of protecting our natural heritage.</p><p>The evening includes a keynote address from renowned conservationist Dr. Elena Rodriguez, a silent auction featuring nature photography and eco-tourism packages, and live music.</p>",
+            "summary": "Our premier fundraising event of the year brings together conservation leaders, donors, and community members for an evening of celebration and inspiration. This year's theme celebrates 25 years of pr"
+          },
+          "eventDate": {
+            "timestamp": 1781478000
+          },
+          "endDate": {
+            "timestamp": 1781492400
+          },
+          "location": "Grand Ballroom, Riverside Hotel",
+          "eventType": [
+            {
+              "id": "fundraiser",
+              "name": "fundraiser"
+            }
+          ],
+          "registrationUrl": "https://greenfield-conservation.org/register/gala",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+            "alt": "Annual Conservation Gala",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/great-bird-count": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-bird-count",
+          "title": "Great Bird Count Weekend",
+          "path": "/events/great-bird-count",
+          "body": {
+            "processed": "<p>Participate in our annual community science event! Volunteers of all ages and experience levels are welcome to join us in counting and identifying bird species across the region. Data collected helps track population trends and inform conservation strategies.</p><h2>How to Participate</h2><ul><li>Choose a survey location from our interactive map</li><li>Download the data collection app</li><li>Spend at least 1 hour observing and recording bird species</li><li>Submit your data by Sunday evening</li></ul>",
+            "summary": "Participate in our annual community science event! Volunteers of all ages and experience levels are welcome to join us in counting and identifying bird species across the region. Data collected helps "
+          },
+          "eventDate": {
+            "timestamp": 1778324400
+          },
+          "endDate": {
+            "timestamp": 1778454000
+          },
+          "location": "Various Locations Regionwide",
+          "eventType": [
+            {
+              "id": "workshop",
+              "name": "workshop"
+            }
+          ],
+          "registrationUrl": "https://greenfield-conservation.org/register/bird-count",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1480044965905-02098d419e96?w=800&q=80",
+            "alt": "Birdwatcher with binoculars",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1480044965905-02098d419e96?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1480044965905-02098d419e96?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1480044965905-02098d419e96?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/federal-grant-wetland-restoration": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-grant",
+          "title": "Society Receives $3.2M Federal Grant for Wetland Restoration",
+          "path": "/news/federal-grant-wetland-restoration",
+          "body": {
+            "processed": "<p>Greenfield Conservation Society has been awarded a $3.2 million grant from the U.S. Fish and Wildlife Service to expand our wetland restoration efforts along the Chesapeake Bay watershed.</p><p>\"This funding will allow us to accelerate our restoration timeline and protect critical habitat for dozens of migratory bird species,\" said Executive Director Dr. Sarah Chen.</p><p>The grant will fund the restoration of an additional 1,500 acres of wetland habitat over the next three years, bringing the total project area to 4,500 acres.</p>",
+            "summary": "Greenfield Conservation Society has been awarded a $3.2 million grant from the U.S. Fish and Wildlife Service to expand our wetland restoration efforts along the Chesapeake Bay watershed.\"This funding"
+          },
+          "category": [
+            {
+              "id": "research",
+              "name": "research"
+            },
+            {
+              "id": "announcements",
+              "name": "announcements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+            "alt": "Wetland landscape at sunset",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/record-eagle-nesting-season": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-eagle-record",
+          "title": "Record Eagle Nesting Season Marks Conservation Milestone",
+          "path": "/news/record-eagle-nesting-season",
+          "body": {
+            "processed": "<p>This year's bald eagle nesting survey has recorded the highest number of active nests in the society's 25-year monitoring history. A total of 68 active nests were documented across our monitoring region, up from 52 last year.</p><p>\"This is a testament to decades of habitat protection and pollution reduction efforts,\" said wildlife biologist Dr. James Morton. \"Each nest represents a pair of eagles choosing our protected areas as safe places to raise their young.\"</p>",
+            "summary": "This year's bald eagle nesting survey has recorded the highest number of active nests in the society's 25-year monitoring history. A total of 68 active nests were documented across our monitoring regi"
+          },
+          "category": [
+            {
+              "id": "research",
+              "name": "research"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1612024782955-49fae79e42bb?w=800&q=80",
+            "alt": "Bald eagle nesting",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1612024782955-49fae79e42bb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1612024782955-49fae79e42bb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1612024782955-49fae79e42bb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/youth-conservation-corps-launches": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-youth-program",
+          "title": "Youth Conservation Corps Launches Summer Program",
+          "path": "/news/youth-conservation-corps-launches",
+          "body": {
+            "processed": "<p>Our new Youth Conservation Corps program will provide 100 high school students with hands-on conservation experience this summer. Participants will work alongside professional ecologists and wildlife biologists on real conservation projects.</p><p>The eight-week program includes field research, habitat restoration, wildlife monitoring, and leadership development. Students will earn community service hours and receive a stipend for their work.</p><p>Applications are now open for students ages 15-18 from the greater metro area.</p>",
+            "summary": "Our new Youth Conservation Corps program will provide 100 high school students with hands-on conservation experience this summer. Participants will work alongside professional ecologists and wildlife "
+          },
+          "category": [
+            {
+              "id": "community",
+              "name": "community"
+            }
+          ],
+          "featured": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+            "alt": "Youth Conservation Corps participants",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About Greenfield Conservation Society",
+          "path": "/about",
+          "body": {
+            "processed": "<p>Founded in 2001, Greenfield Conservation Society has grown from a small group of passionate naturalists to one of the region's leading environmental organizations. Our mission is to protect and restore natural ecosystems through science-based conservation, community engagement, and environmental education.</p><h2>Our Values</h2><ul><li><strong>Science-Driven</strong> - We base our conservation decisions on the best available scientific research and data.</li><li><strong>Community-Centered</strong> - We believe lasting conservation success requires community partnership and support.</li><li><strong>Transparency</strong> - We maintain the highest standards of financial and operational transparency.</li><li><strong>Sustainability</strong> - We practice what we preach, integrating sustainability into every aspect of our operations.</li></ul><h2>Our Impact</h2><p>Over the past two decades, we have protected over 50,000 acres of critical habitat, monitored more than 200 species, and engaged over 5,000 volunteers in conservation activities across the region.</p>",
+            "summary": "Founded in 2001, Greenfield Conservation Society has grown from a small group of passionate naturalists to one of the region's leading environmental organizations. Our mission is to protect and restor"
+          }
+        }
+      }
+    }
+  },
+  "/volunteer": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-volunteer",
+          "title": "Volunteer With Us",
+          "path": "/volunteer",
+          "body": {
+            "processed": "<h2>Make a Hands-On Difference</h2><p>Our volunteers are the backbone of our conservation work. Whether you can give a few hours or commit to regular involvement, there's a role for you in protecting our natural heritage.</p><h2>Volunteer Opportunities</h2><ul><li><strong>Field Work</strong> - Participate in habitat restoration, invasive species removal, and trail maintenance.</li><li><strong>Wildlife Monitoring</strong> - Join our community science programs to track bird populations, butterfly migrations, and more.</li><li><strong>Education</strong> - Lead nature walks, assist with school programs, or help at our nature center.</li><li><strong>Events</strong> - Help organize fundraisers, community cleanups, and public awareness campaigns.</li></ul><h2>Getting Started</h2><p>New volunteers attend a brief orientation session before their first project. We provide all necessary training, tools, and safety equipment. Contact us at volunteers@greenfield-conservation.org to sign up.</p>",
+            "summary": "Make a Hands-On DifferenceOur volunteers are the backbone of our conservation work. Whether you can give a few hours or commit to regular involvement, there's a role for you in protecting our natural "
+          }
+        }
+      }
+    }
+  }
+}

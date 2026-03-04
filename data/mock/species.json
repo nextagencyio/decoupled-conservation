@@ -1,0 +1,189 @@
+{
+  "data": {
+    "nodeSpeciesItems": {
+      "__typename": "NodeSpeciesConnection",
+      "nodes": [
+        {
+          "__typename": "NodeSpecies",
+          "id": "species-bald-eagle",
+          "title": "Bald Eagle",
+          "path": "/species/bald-eagle",
+          "body": {
+            "processed": "<p>The bald eagle, America's national bird, has made a remarkable comeback from the brink of extinction. Our monitoring program tracks nesting pairs across the region and works to protect critical habitat areas from development and pollution.</p><h2>Conservation Success</h2><p>Thanks to decades of protection efforts, bald eagle populations have recovered significantly. Our society monitors over 50 active nests and conducts annual population surveys to ensure continued recovery.</p>",
+            "summary": "The bald eagle, America's national bird, has made a remarkable comeback from the brink of extinction. Our monitoring program tracks nesting pairs across the region and works to protect critical habita"
+          },
+          "conservationStatus": [
+            {
+              "id": "least-concern",
+              "name": "least-concern"
+            }
+          ],
+          "habitat": "Near large bodies of open water, forests",
+          "populationEstimate": "316,000 (North America)",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&q=80",
+            "alt": "Bald Eagle in flight",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "scientificName": "Haliaeetus leucocephalus"
+        },
+        {
+          "__typename": "NodeSpecies",
+          "id": "species-red-wolf",
+          "title": "Red Wolf",
+          "path": "/species/red-wolf",
+          "body": {
+            "processed": "<p>The red wolf is one of the most endangered canids in the world. Our captive breeding and reintroduction program works to establish self-sustaining wild populations in protected areas of the southeastern United States.</p><h2>Our Role</h2><p>Greenfield Conservation Society operates one of the primary breeding facilities and coordinates with federal agencies on reintroduction efforts. We also manage community outreach programs to reduce human-wildlife conflict.</p>",
+            "summary": "The red wolf is one of the most endangered canids in the world. Our captive breeding and reintroduction program works to establish self-sustaining wild populations in protected areas of the southeaste"
+          },
+          "conservationStatus": [
+            {
+              "id": "critically-endangered",
+              "name": "critically-endangered"
+            }
+          ],
+          "habitat": "Forests, wetlands, coastal prairies",
+          "populationEstimate": "15-20 (wild), 250 (captive)",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+            "alt": "Red Wolf in natural habitat",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "scientificName": "Canis rufus"
+        },
+        {
+          "__typename": "NodeSpecies",
+          "id": "species-sea-turtle",
+          "title": "Loggerhead Sea Turtle",
+          "path": "/species/loggerhead-sea-turtle",
+          "body": {
+            "processed": "<p>Loggerhead sea turtles are the most common sea turtle in the Atlantic, yet they face numerous threats including coastal development, fishing bycatch, and climate change. Our beach monitoring and nest protection program has helped increase hatchling survival rates significantly.</p><h2>Protection Efforts</h2><ul><li>24/7 nest monitoring during nesting season</li><li>Beach lighting ordinance advocacy</li><li>Hatchling orientation programs</li><li>Marine debris reduction campaigns</li></ul>",
+            "summary": "Loggerhead sea turtles are the most common sea turtle in the Atlantic, yet they face numerous threats including coastal development, fishing bycatch, and climate change. Our beach monitoring and nest "
+          },
+          "conservationStatus": [
+            {
+              "id": "vulnerable",
+              "name": "vulnerable"
+            }
+          ],
+          "habitat": "Coastal waters, sandy beaches for nesting",
+          "populationEstimate": "44,000 nesting females (Atlantic)",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1591025207163-942350e47db2?w=800&q=80",
+            "alt": "Loggerhead Sea Turtle swimming",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1591025207163-942350e47db2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1591025207163-942350e47db2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1591025207163-942350e47db2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "scientificName": "Caretta caretta"
+        },
+        {
+          "__typename": "NodeSpecies",
+          "id": "species-monarch-butterfly",
+          "title": "Monarch Butterfly",
+          "path": "/species/monarch-butterfly",
+          "body": {
+            "processed": "<p>The monarch butterfly is renowned for its incredible multi-generational migration spanning thousands of miles. Declining milkweed habitat and climate change have caused dramatic population declines, making conservation action urgent.</p><h2>What We Do</h2><ul><li>Milkweed planting and habitat restoration</li><li>Migration monitoring and tagging program</li><li>Community science butterfly counts</li><li>Pesticide-free zone advocacy</li></ul>",
+            "summary": "The monarch butterfly is renowned for its incredible multi-generational migration spanning thousands of miles. Declining milkweed habitat and climate change have caused dramatic population declines, m"
+          },
+          "conservationStatus": [
+            {
+              "id": "endangered",
+              "name": "endangered"
+            }
+          ],
+          "habitat": "Meadows, fields, milkweed patches, overwintering forests",
+          "populationEstimate": "Declining - down 80% since 1990s",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=800&q=80",
+            "alt": "Monarch Butterfly on milkweed",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "scientificName": "Danaus plexippus"
+        }
+      ]
+    }
+  }
+}
