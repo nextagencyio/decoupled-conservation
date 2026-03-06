@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-acres",
               "title": "",
-              "number": "50,000+",
+              "number": "50,000+", "value": "50,000+",
               "label": "Acres Protected"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-species",
               "title": "",
-              "number": "200+",
+              "number": "200+", "value": "200+",
               "label": "Species Monitored"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-volunteers",
               "title": "",
-              "number": "5,000+",
+              "number": "5,000+", "value": "5,000+",
               "label": "Active Volunteers"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-projects",
               "title": "",
-              "number": "35",
+              "number": "35", "value": "35",
               "label": "Active Projects"
             }
           ],
