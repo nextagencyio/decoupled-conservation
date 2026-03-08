@@ -7,6 +7,7 @@ import Header from '../components/Header'
 import ProjectCard from '../components/ProjectCard'
 
 export const revalidate = 3600
+export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Projects | Earthwatch Conservation',
