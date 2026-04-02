@@ -6,6 +6,8 @@
 
 # Testing
 /coverage
+/test-results/
+/playwright-report/
 
 # Next.js
 /.next/
@@ -89,3 +91,6 @@ storybook-static
 # Temporary folders
 tmp/
 temp/
+
+# OpenNext build output
+.open-next/

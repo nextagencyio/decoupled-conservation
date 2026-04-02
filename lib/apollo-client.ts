@@ -111,8 +111,9 @@ const authLink = setContext((_, { headers }) => {
 
 const possibleTypesConfig = {
   possibleTypes: {
-    TermInterface: ['TermDepartment', 'TermCategory', 'TermTags'],
-    NodeInterface: ['NodeProgram', 'NodeFaculty', 'NodeEvent', 'NodeNews', 'NodePage', 'NodeHomepage'],
+    TermInterface: ['TermConservationStatus', 'TermEventType', 'TermNewsCategory', 'TermProjectArea', 'TermTag'],
+    NodeInterface: ['NodeHomepage', 'NodeProject', 'NodeSpecies', 'NodeEvent', 'NodeNews', 'NodePage'],
+    ParagraphUnion: ['ParagraphStatItem'],
   },
 }
 
