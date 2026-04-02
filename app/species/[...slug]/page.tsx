@@ -24,7 +24,7 @@ interface SpeciesByPathData {
 async function getSpecies(path: string): Promise<DrupalSpecies | null> {
   try {
     const client = getClient()
-    const { data } = await client.raw(GET_SPECIES_BY_PATH, { path })
+    const data = await client.raw(GET_SPECIES_BY_PATH, { path })
     return data?.route?.entity || null
   } catch (error) {
     console.error('Error fetching species:', error)
