@@ -1,8 +1,7 @@
+import { getClient } from '@/lib/drupal-client'
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { headers } from 'next/headers'
 import Link from 'next/link'
-import { getServerApolloClient } from '@/lib/apollo-client'
 import { GET_SPECIES_BY_PATH } from '@/lib/queries'
 import { DrupalSpecies } from '@/lib/types'
 import Header from '../../components/Header'
@@ -24,13 +23,8 @@ interface SpeciesByPathData {
 
 async function getSpecies(path: string): Promise<DrupalSpecies | null> {
   try {
-    const requestHeaders = await headers()
-    const apolloClient = getServerApolloClient(requestHeaders)
-    const { data } = await apolloClient.query<SpeciesByPathData>({
-      query: GET_SPECIES_BY_PATH,
-      variables: { path },
-      fetchPolicy: 'cache-first',
-    })
+    const client = getClient()
+    const { data } = await client.raw(GET_SPECIES_BY_PATH, { path })
     return data?.route?.entity || null
   } catch (error) {
     console.error('Error fetching species:', error)
